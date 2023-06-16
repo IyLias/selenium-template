@@ -1,0 +1,15 @@
+C:\Users\Kyle\source\repos\ConsoleSeleniumTemplate\WinformSeleniumTemplate\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\Kyle\source\repos\ConsoleSeleniumTemplate\WinformSeleniumTemplate\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\Kyle\source\repos\ConsoleSeleniumTemplate\WinformSeleniumTemplate\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\Kyle\source\repos\ConsoleSeleniumTemplate\WinformSeleniumTemplate\bin\Debug\WinformSeleniumTemplate.exe.config
+C:\Users\Kyle\source\repos\ConsoleSeleniumTemplate\WinformSeleniumTemplate\bin\Debug\WinformSeleniumTemplate.exe
+C:\Users\Kyle\source\repos\ConsoleSeleniumTemplate\WinformSeleniumTemplate\bin\Debug\WinformSeleniumTemplate.pdb
+C:\Users\Kyle\source\repos\ConsoleSeleniumTemplate\WinformSeleniumTemplate\bin\Debug\WebDriver.dll
+C:\Users\Kyle\source\repos\ConsoleSeleniumTemplate\WinformSeleniumTemplate\obj\Debug\WinformSeleniumTemplate.csproj.AssemblyReference.cache
+C:\Users\Kyle\source\repos\ConsoleSeleniumTemplate\WinformSeleniumTemplate\obj\Debug\WinformSeleniumTemplate.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kyle\source\repos\ConsoleSeleniumTemplate\WinformSeleniumTemplate\obj\Debug\WinformSeleniumTemplate.Properties.Resources.resources
+C:\Users\Kyle\source\repos\ConsoleSeleniumTemplate\WinformSeleniumTemplate\obj\Debug\WinformSeleniumTemplate.csproj.GenerateResource.cache
+C:\Users\Kyle\source\repos\ConsoleSeleniumTemplate\WinformSeleniumTemplate\obj\Debug\WinformSeleniumTemplate.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\source\repos\ConsoleSeleniumTemplate\WinformSeleniumTemplate\obj\Debug\WinformSeleniumTemplate.csproj.CopyComplete
+C:\Users\Kyle\source\repos\ConsoleSeleniumTemplate\WinformSeleniumTemplate\obj\Debug\WinformSeleniumTemplate.exe
+C:\Users\Kyle\source\repos\ConsoleSeleniumTemplate\WinformSeleniumTemplate\obj\Debug\WinformSeleniumTemplate.pdb

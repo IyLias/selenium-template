@@ -1,0 +1,13 @@
+C:\Users\Kyle\source\repos\ConsoleSeleniumTemplate\ConsoleSeleniumTemplate\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\Kyle\source\repos\ConsoleSeleniumTemplate\ConsoleSeleniumTemplate\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\Kyle\source\repos\ConsoleSeleniumTemplate\ConsoleSeleniumTemplate\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\Kyle\source\repos\ConsoleSeleniumTemplate\ConsoleSeleniumTemplate\bin\Debug\ConsoleSeleniumTemplate.exe.config
+C:\Users\Kyle\source\repos\ConsoleSeleniumTemplate\ConsoleSeleniumTemplate\bin\Debug\ConsoleSeleniumTemplate.exe
+C:\Users\Kyle\source\repos\ConsoleSeleniumTemplate\ConsoleSeleniumTemplate\bin\Debug\ConsoleSeleniumTemplate.pdb
+C:\Users\Kyle\source\repos\ConsoleSeleniumTemplate\ConsoleSeleniumTemplate\bin\Debug\WebDriver.dll
+C:\Users\Kyle\source\repos\ConsoleSeleniumTemplate\ConsoleSeleniumTemplate\obj\Debug\ConsoleSeleniumTemplate.csproj.AssemblyReference.cache
+C:\Users\Kyle\source\repos\ConsoleSeleniumTemplate\ConsoleSeleniumTemplate\obj\Debug\ConsoleSeleniumTemplate.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kyle\source\repos\ConsoleSeleniumTemplate\ConsoleSeleniumTemplate\obj\Debug\ConsoleSeleniumTemplate.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\source\repos\ConsoleSeleniumTemplate\ConsoleSeleniumTemplate\obj\Debug\ConsoleSeleniumTemplate.csproj.CopyComplete
+C:\Users\Kyle\source\repos\ConsoleSeleniumTemplate\ConsoleSeleniumTemplate\obj\Debug\ConsoleSeleniumTemplate.exe
+C:\Users\Kyle\source\repos\ConsoleSeleniumTemplate\ConsoleSeleniumTemplate\obj\Debug\ConsoleSeleniumTemplate.pdb
