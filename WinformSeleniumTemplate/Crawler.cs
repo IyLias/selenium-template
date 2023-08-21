@@ -37,7 +37,7 @@ namespace WinformSeleniumTemplate
 
         public void doWork()
         {
-            chromeDriver.Navigate().GoToUrl("https://klas.kw.ac.kr");
+            chromeDriver.Navigate().GoToUrl("https://google.com");
         }
 
 
